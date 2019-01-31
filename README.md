@@ -1,2 +1,3 @@
 # datascience1repo
-this my practice repository
+for stats
+this my practice repository 
